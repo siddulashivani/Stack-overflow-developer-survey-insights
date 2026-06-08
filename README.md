@@ -3,7 +3,7 @@ A PostgreSQL-based analysis of 49K+ Stack Overflow Developer Survey 2025 respons
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── Developer_survey.csv        # Raw survey dataset (~49,200 rows)
@@ -13,7 +13,7 @@ A PostgreSQL-based analysis of 49K+ Stack Overflow Developer Survey 2025 respons
 
 ---
 
-## 📌 Dataset Overview
+## Dataset Overview
 
 The dataset contains responses from **~49,200 developers** worldwide with the following fields:
 
@@ -30,7 +30,7 @@ The dataset contains responses from **~49,200 developers** worldwide with the fo
 
 ---
 
-## 🔍 Analyses Performed
+## Analyses Performed
 
 ### 1. Global Median Salary
 Calculates the overall global median yearly compensation using `PERCENTILE_CONT`.
@@ -63,7 +63,7 @@ Final project query: combines language and experience level to show median salar
 
 ---
 
-## 🛠️ SQL Techniques Used
+## SQL Techniques Used
 
 - `PERCENTILE_CONT` — median salary calculation
 - `CASE WHEN` — experience level bucketing
@@ -75,7 +75,7 @@ Final project query: combines language and experience level to show median salar
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ### Prerequisites
 - PostgreSQL 12+ (uses `PERCENTILE_CONT` and `UNNEST`)
@@ -107,7 +107,7 @@ Final project query: combines language and experience level to show median salar
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Experience pays**: Median salary increases consistently with years of experience.
 - **Language matters**: Certain languages correlate strongly with higher compensation.
