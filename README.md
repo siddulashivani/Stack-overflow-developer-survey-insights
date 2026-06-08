@@ -122,5 +122,4 @@ Final project query: combines language and experience level to show median salar
 - SQL – Data transformation, aggregation, and analytical querying
 - CSV Dataset – Stack Overflow Developer Survey 2025 data source
 
----
 
