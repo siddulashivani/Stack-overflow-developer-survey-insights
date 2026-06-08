@@ -1,5 +1,5 @@
 # Stack Overflow Developer Survey 2025 Insights using PostgreSQL
-A PostgreSQL-based analysis of 49K+ Stack Overflow Developer Survey 2025 responses, examining developer compensation trends and identifying key salary drivers across experience levels, programming languages, databases, platforms, and work arrangements using advanced SQL techniques.
+A PostgreSQL-based analysis of 49,200 Stack Overflow Developer Survey 2025 responses, examining developer compensation trends and identifying key salary drivers across experience levels, programming languages, databases, platforms, and work arrangements using advanced SQL techniques.
 
 ---
 
