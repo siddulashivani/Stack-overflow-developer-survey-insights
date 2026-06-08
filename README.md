@@ -9,7 +9,7 @@ A PostgreSQL-based analysis of 49K Stack Overflow Developer Survey 2025 response
 ├── Developer_survey.csv
 ├── project_stackoverflow.sql
 ├── Project_Report.pdf
-└── README.md
+├── README.md
 ```
 
 ---
