@@ -13,7 +13,6 @@ A PostgreSQL-based analysis of 49K Stack Overflow Developer Survey 2025 response
 ```
 
 ---
-
 ## Dataset Overview
 
 The dataset contains responses from **~49,200 developers** worldwide with the following fields:
